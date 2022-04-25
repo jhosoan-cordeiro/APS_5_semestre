@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding: 0;
+    
+}
+footer{
+    height: 75px;
+    width: 100%;
+    background: #1D6EF1;
+    
+}
+img{
+    padding-top: 8px;
+    display:flex;
+    margin: auto;
+    
+}
+.contener{
+    display: flex;
+    position:relative;
+    top: 30px;
+    margin: auto;
+    width: 750px;
+    height: 500px;
+    background: #C4C4C4;
+    border-radius: 25px;
+}
