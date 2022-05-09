@@ -1,3 +1,4 @@
+/*<select name="salvar" id="salvar" size="4"></select>*/
 body{
     margin:0;
     padding: 0;
@@ -21,7 +22,23 @@ img{
     top: 30px;
     margin: auto;
     width: 750px;
-    height: 500px;
+    height: 490px;
     background: #C4C4C4;
-    border-radius: 25px;
+    box-shadow: black;
+
+    border-radius: 25px 15px 0px 0px ;
 }
+.box{
+    position:absolute;
+    bottom: 0;
+    width: 750px;
+    height: 30px;
+     
+}
+.escrever{
+   
+   
+    
+}
+#menssagem{width:70%;height: 25px;}
+.botao{background-color: #1D6EF1; height:30px; margin:5px}
